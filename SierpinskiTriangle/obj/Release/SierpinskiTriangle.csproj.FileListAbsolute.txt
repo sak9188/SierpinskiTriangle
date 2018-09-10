@@ -1,8 +1,0 @@
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\bin\Release\SierpinskiTriangle.exe
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\bin\Release\SierpinskiTriangle.pdb
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.MainForm.resources
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.Properties.Resources.resources
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.csproj.GenerateResource.cache
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.csproj.CoreCompileInputs.cache
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.exe
-E:\Workplace\doNet\CSharp\SierpinskiTriangle\SierpinskiTriangle\obj\Release\SierpinskiTriangle.pdb
